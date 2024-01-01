@@ -12,4 +12,4 @@ This To-Do List app, with its sleek design and straightforward features, lets yo
 Experience the timeless fun of Rock, Paper, Scissors with this JavaScript-powered game. Simply clone the repository, open index.html in your browser, and click on your choice to play. Track scores, enjoy color-coded result messages, and immerse yourself in this responsive and engaging game.
 
 ## Currency Converter 💵
-This Currency Converter web app allows users to effortlessly convert amounts between various currencies. Utilizing the Flags API for visual representation and the Currency API for real-time exchange rates, the application offers a user-friendly interface. Simply select source and target currencies, input the amount, and click "Get Exchange Rate" to view the converted result. The project is structured with HTML, CSS, and JavaScript, ensuring a seamless and responsive user experience.
+Convert currencies effortlessly with this web app, featuring real-time rates from the Currency API and visual flair using the Flags API. Select currencies, input the amount, and instantly view the converted result for a seamless user experience.
