@@ -13,3 +13,5 @@ Experience the timeless fun of Rock, Paper, Scissors with this JavaScript-powere
 
 ## Currency Converter 💵
 Convert currencies effortlessly with this web app, featuring real-time rates from the Currency API and visual flair using the Flags API. Select currencies, input the amount, and instantly view the converted result for a seamless user experience.
+## Quiz App 🧠
+This simple Quiz App allows users to test their knowledge with a set of questions. Built with HTML, CSS, and JavaScript, it provides an interactive quiz experience with instant feedback on correct and incorrect answers.
