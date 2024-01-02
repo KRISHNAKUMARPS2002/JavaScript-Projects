@@ -17,3 +17,6 @@ Convert currencies effortlessly with this web app, featuring real-time rates fro
 This simple Quiz App allows users to test their knowledge with a set of questions. Built with HTML, CSS, and JavaScript, it provides an interactive quiz experience with instant feedback on correct and incorrect answers.
 ## Random Password Generator🔑
 This project is a sleek web-based password generator that allows users to easily create and copy strong passwords with adjustable complexity. Implemented using HTML, CSS, and JavaScript for a user-friendly interface.
+
+## Notes App📝
+This web app allows users to easily create, edit, and delete notes. The clean interface and local storage integration provide a seamless experience for managing personal notes.
