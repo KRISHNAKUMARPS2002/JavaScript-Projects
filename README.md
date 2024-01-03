@@ -20,3 +20,5 @@ This project is a sleek web-based password generator that allows users to easily
 
 ## Notes App📝
 This web app allows users to easily create, edit, and delete notes. The clean interface and local storage integration provide a seamless experience for managing personal notes.
+## Age Calculator App 📆
+A responsive Age Calculator web app using JavaScript with a visually appealing interface.
