@@ -20,3 +20,5 @@ This web app allows users to easily create, edit, and delete notes. The clean in
 A responsive Age Calculator web app using JavaScript with a visually appealing interface.
 ## Quote Generator App🫴
 This HTML document fetches and displays a random quote using the quotable.io API, allowing users to generate new quotes and share them on Twitter.
+## QR Code Generator 💳
+This QR Code Generator is a compact web app, using HTML, CSS, and JavaScript for quick and easy code creation from user input.
